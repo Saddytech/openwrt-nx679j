@@ -32,6 +32,7 @@ In 12 file compaiono segnaposto come `«redacted»` (questo README e `08-skill/L
 | `07-evidenze-runtime/` | Prove raccolte dal device: interrupts, dmesg, properties, getvar, pinctrl |
 | `08-skill/` | Le procedure operative del progetto: passi verificati e **trappole già pagate** |
 | `09-albero-originale/` | Il resto dell'albero di lavoro, non-blocco: RE di EDL/QDL (`edl-recovery/`), analisi dei fallimenti (`phase2-failure-analysis/`), build headless e log dei tentativi di boot (`native-openwrt-usb-build/`), verifiche UEFI/OTA (`verified-*`), prove sul bootloader (`hypervisor-bypass/`), i **tool QMI/QRTR** e altri strumenti del progetto |
+| `10-nord2t/` | **Port verso il OnePlus Nord 2T (MediaTek Dimensity 1300)**: fattibilità, roadmap con gate e script che automatizzano inventario, backup, repack del boot image, flash con gate e cambio slot — parti da `10-nord2t/LEGGIMI.md` |
 
 ## Cosa NON troverai qui (e perché)
 
